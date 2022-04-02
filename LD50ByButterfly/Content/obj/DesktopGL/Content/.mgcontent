@@ -5,8 +5,20 @@
   <Config />
   <SourceFiles>
     <File>F:/LD50_butterfly/LD50ByButterfly/Content/Background.png</File>
+    <File>F:/LD50_butterfly/LD50ByButterfly/Content/FlamingoWorker.png</File>
+    <File>F:/LD50_butterfly/LD50ByButterfly/Content/foreground.png</File>
+    <File>F:/LD50_butterfly/LD50ByButterfly/Content/HourArrow.png</File>
+    <File>F:/LD50_butterfly/LD50ByButterfly/Content/MinuteArrow.png</File>
+    <File>F:/LD50_butterfly/LD50ByButterfly/Content/Mug.png</File>
+    <File>F:/LD50_butterfly/LD50ByButterfly/Content/Pixeled.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

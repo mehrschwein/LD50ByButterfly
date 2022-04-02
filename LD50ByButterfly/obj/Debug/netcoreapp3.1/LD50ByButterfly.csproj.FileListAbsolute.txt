@@ -14,7 +14,6 @@ F:\LD50_butterfly\LD50ByButterfly\bin\Debug\netcoreapp3.1\runtimes\win-x64\nativ
 F:\LD50_butterfly\LD50ByButterfly\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
 F:\LD50_butterfly\LD50ByButterfly\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
 F:\LD50_butterfly\LD50ByButterfly\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
-F:\LD50_butterfly\LD50ByButterfly\obj\Debug\netcoreapp3.1\LD50ByButterfly.csprojAssemblyReference.cache
 F:\LD50_butterfly\LD50ByButterfly\obj\Debug\netcoreapp3.1\LD50ByButterfly.GeneratedMSBuildEditorConfig.editorconfig
 F:\LD50_butterfly\LD50ByButterfly\obj\Debug\netcoreapp3.1\LD50ByButterfly.AssemblyInfoInputs.cache
 F:\LD50_butterfly\LD50ByButterfly\obj\Debug\netcoreapp3.1\LD50ByButterfly.AssemblyInfo.cs
@@ -23,3 +22,10 @@ F:\LD50_butterfly\LD50ByButterfly\obj\Debug\netcoreapp3.1\LD50ByButterfly.csproj
 F:\LD50_butterfly\LD50ByButterfly\obj\Debug\netcoreapp3.1\LD50ByButterfly.dll
 F:\LD50_butterfly\LD50ByButterfly\obj\Debug\netcoreapp3.1\LD50ByButterfly.pdb
 F:\LD50_butterfly\LD50ByButterfly\obj\Debug\netcoreapp3.1\LD50ByButterfly.genruntimeconfig.cache
+F:\LD50_butterfly\LD50ByButterfly\bin\Debug\netcoreapp3.1\Content\HourArrow.xnb
+F:\LD50_butterfly\LD50ByButterfly\bin\Debug\netcoreapp3.1\Content\MinuteArrow.xnb
+F:\LD50_butterfly\LD50ByButterfly\bin\Debug\netcoreapp3.1\Content\FlamingoWorker.xnb
+F:\LD50_butterfly\LD50ByButterfly\bin\Debug\netcoreapp3.1\Content\foreground.xnb
+F:\LD50_butterfly\LD50ByButterfly\bin\Debug\netcoreapp3.1\Content\Mug.xnb
+F:\LD50_butterfly\LD50ByButterfly\bin\Debug\netcoreapp3.1\Content\Pixeled.xnb
+F:\LD50_butterfly\LD50ByButterfly\obj\Debug\netcoreapp3.1\LD50ByButterfly.csproj.AssemblyReference.cache
