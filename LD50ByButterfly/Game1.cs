@@ -260,6 +260,8 @@ namespace LD50ByButterfly
             _spriteBatch.Draw(_texForeGround, screenDimensions, Color.White);
             _spriteBatch.Draw(_texMug, new Rectangle((int)(300 * windowScale), (int)(206 * windowScale), (int)(18 * windowScale), (int)(18 * windowScale)), Color.White);
 
+            _spriteBatch.Draw(_texMug, new Rectangle((int)(300 * windowScale), (int)(206 * windowScale), (int)(18 * windowScale), (int)(18 * windowScale)), Color.White);
+
             _spriteBatch.DrawString(_font, "$ " + money, new Vector2(20, 20), Color.Black);
             //_spriteBatch.DrawString(_font, "Sleep Timer:  " + sleepTimer, new Vector2(20, 50), Color.Black);
             //_spriteBatch.DrawString(_font, "Sleepyness:  " + sleepyness, new Vector2(20, 80), Color.Black);
